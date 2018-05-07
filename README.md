@@ -1,5 +1,6 @@
-This is a command line "Word Ledder" program. To compile:$ g++ menu.cpp
-dictionary.txt file must be in the same directory as executable
+This is a command line "Word Ledder" program. dictionary.txt file must be in the same directory as executable
+
+To compile:$ g++ menu.cpp
 
 Word Ledder is when you given two words(start and final words)
 and you,stating with the start word, continuously change one letter of the word to create 
